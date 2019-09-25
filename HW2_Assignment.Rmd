@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## The Homework Problems
-jbfsdbfcojdsbncvd
+djbv hd vhdb
 Below you will find problems for you to complete as an individual. It is fine to discuss the homework problems with classmates, but cheating is prohibited and will be harshly penalized if detected.
 
 ### 1. Do the following:
