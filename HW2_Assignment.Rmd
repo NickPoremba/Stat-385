@@ -1,6 +1,6 @@
 ---
 title: "STAT 385 Homework Assignment 02"
-author: "Nicholas Poremba"
+author: "Nick Poremba"
 date: "Due by 12:00 PM 09/28/2019"
 output: html_document
 ---
